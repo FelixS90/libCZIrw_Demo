@@ -1,11 +1,11 @@
 # DEMO/TEST
-# libCZIrw
+# libCZI
 ***Open Source Cross-Platform C++ library to read and write CZI image files***
 ---------------------------------------------------------------------
 
 ## General Information
  
-***libCZIrw*** is a library intended for providing read and write access to CZI-documents.
+***libCZI*** is a library intended for providing read and write access to CZI-documents.
 
 It features:
 
@@ -16,7 +16,7 @@ It features:
 * access metadata
 * writing
 
-In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and managing the data found in a CZI-file. The libCZIrw libary is part of the Open Application Development Concept of Zeiss Microscopy. More information on OAD can be found here: https://github.com/zeiss-microscopy/OAD
+In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and managing the data found in a CZI-file. The libCZI libary is part of the Open Application Development Concept of Zeiss Microscopy. More information on OAD can be found here: https://github.com/zeiss-microscopy/OAD
 
 The code is written in C++11 and (so far) has been successfully compiled with:
 
@@ -28,14 +28,14 @@ It is intended to be easily portable to other platforms.
 
 ## Python Wrappers for libCZI
 
-The following list of python wrappers is available for libCZIrw. They provide easy access to CZI image data from python.
+The following list of python wrappers is available for libCZI. They provide easy access to CZI image data from python.
 
-### pylibCZIrw
+### pylibCZI
 
-This is a python module for reading and writing Zeiss CZI files by utilizing libCZIrw and can be found here: [pylibCZIrw](https://pypi.org/project/pylibczirw/)
+This is a python module for reading and writing Zeiss CZI files by utilizing libCZI and can be found here: [pylibCZI](https://pypi.org/project/pylibCZI/)
 
 ## Licensing
-libCZIrw is a reader and writer for the CZI fileformat written in C++
+libCZI is a reader and writer for the CZI fileformat written in C++
 Copyright (C) 2022  Zeiss Microscopy GmbH
 
 This program is free software: you can redistribute it and/or modify

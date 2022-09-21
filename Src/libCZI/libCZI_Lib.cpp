@@ -1,6 +1,6 @@
 //******************************************************************************
 //
-// libCZIrw is a reader and writer for the CZI fileformat written in C++
+// libCZI is a reader and writer for the CZI fileformat written in C++
 // Copyright (C) 2017  Zeiss Microscopy GmbH
 //
 // This program is free software: you can redistribute it and/or modify
