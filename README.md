@@ -17,8 +17,6 @@ It features:
 
 In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and managing the data found in a CZI-file. The libCZIrw libary is part of the Open Application Development Concept of Zeiss Microscopy. More information on OAD can be found here: https://github.com/zeiss-microscopy/OAD
 
-![Testdata Definition](images/czi_github.png)
-
 The code is written in C++11 and (so far) has been successfully compiled with:
 
 * Visual Studio 2015 (Microsoft C++ v. 19.00.23506)
@@ -31,7 +29,7 @@ It is intended to be easily portable to other platforms.
 
 The following list of python wrappers is available for libCZIrw. They provide easy access to CZI image data from python.
 
-#### pylibCZIrw
+### pylibCZIrw
 
 This is a python module for reading and writing Zeiss CZI files by utilizing libCZIrw and can be found here: [pylibCZIrw](https://pypi.org/project/pylibczirw/)
 

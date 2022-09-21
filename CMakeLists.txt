@@ -57,13 +57,7 @@ message("check for open -> ${HAVE_FCNTL_H_OPEN} ; check for pread -> ${HAVE_UNIS
 option(LIBCZI_BUILD_UNITTESTS "Build the gTest-based unit-tests" ON)
 
 option(LIBCZI_BUILD_DYNLIB "Build dynamic library 'libCZI'." ON)
-option(LIBCZI_BUILD_CZICMD "Build application 'CZICmd'." ON)
 
-option(LIBCZI_BUILD_CZICHECK "Build application 'CZICheck'." ON)
-
-# This option enables/disables the tests for the CZICheck-application. If enabled, the test
-#  runs with a ctest run (and test-data is being downloaded)
-option(LIBCZI_BUILD_CZICHECK_TESTS "Run tests for 'CZICheck'" OFF)
 
 if (LIBCZI_BUILD_UNITTESTS)
  enable_testing()
