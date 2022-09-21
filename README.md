@@ -1,3 +1,4 @@
+# DEMO/TEST
 # libCZIrw
 ***Open Source Cross-Platform C++ library to read and write CZI image files***
 ---------------------------------------------------------------------
