@@ -1,9 +1,9 @@
 # DEMO/TEST
 # libCZI
 ***Open Source Cross-Platform C++ library to read and write CZI image files***  
-![Build](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)
-![Security/Quality](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)
-![Docs](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)  
+[![CMake](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml)
+[![CodeQL](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml)
+[![GitHub Pages](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml)
 
 ---------------------------------------------------------------------
 
