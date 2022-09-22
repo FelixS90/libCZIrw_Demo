@@ -29,3 +29,6 @@ For all contributions, please respect the following guidelines:
 - Do not commit changes to files that are irrelevant to your feature or bugfix.
 - Be willing to accept criticism and work on improving your code.
 - Be aware that the PR review process is not immediate, and is generally proportional to the size of the PR.
+
+# Attribution
+This template was inspired by https://github.com/nayafia/contributing-template.
