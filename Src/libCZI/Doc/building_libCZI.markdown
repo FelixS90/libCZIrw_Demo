@@ -39,5 +39,5 @@ The same steps as above will build the code - go into the folder where the libCZ
 Building the documentation
 --------------------------
 
-Executing <tt>doxygen</tt> will produce the documentation in the folder ../Src/Build/Doxygen folder.
+Executing <tt>doxygen</tt> will produce the HTML documentation in the folder ../Src/Build folder.
 

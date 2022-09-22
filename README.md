@@ -1,6 +1,10 @@
 # DEMO/TEST
 # libCZI
-***Open Source Cross-Platform C++ library to read and write CZI image files***
+***Open Source Cross-Platform C++ library to read and write CZI image files***  
+![Build](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)
+![Security/Quality](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)
+![Docs](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)  
+
 ---------------------------------------------------------------------
 
 ## General Information
@@ -14,7 +18,7 @@ It features:
 * works with tiled images and pyramid images
 * composing multi-channel images with tinting and applying a gradation curve
 * access metadata
-* writing
+* writing subblocks and metadata
 
 In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and managing the data found in a CZI-file. The libCZI libary is part of the Open Application Development Concept of Zeiss Microscopy. More information on OAD can be found here: https://github.com/zeiss-microscopy/OAD
 

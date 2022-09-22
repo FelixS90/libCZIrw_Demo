@@ -1,7 +1,7 @@
 ﻿libCZI Documentation                 {#mainpage}
 ====================
 
-libCZI is a library intended for providing read-only access to the information contained in CZI-documents.  
+libCZI is a library intended for providing read and write access to the information contained in CZI-documents.  
 
 [comment]: # (Markdown magic -> ending a line with two spaces gives a linebreak!)
 
@@ -11,6 +11,7 @@ It features
 - works with tiled images and pyramid images
 - composing multi-channel images with tinting and applying a gradation curve
 - access metadata
+- writing subblocks and metadata
 
 In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and
 managing the data found in a CZI-file.
