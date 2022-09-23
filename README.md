@@ -34,21 +34,16 @@ The libCZI libary is part of the [Open Application Development Concept of Zeiss 
 Carl Zeiss Microscopy GmbH provides libCZI under a dual-license model - [LGPL Version 3](https://www.gnu.org/licenses/lgpl-3.0.en.html) as well as Proprietary/Commercial. 
 
 ### LGPL Version 3
-
 libCZI is a reader and writer for the CZI fileformat written in C++
 Copyright (C) 2017 Carl Zeiss Microscopy GmbH
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Lesser General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
 
-You should have received a copy of the GNU Lesser General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU Lesser General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-To obtain a commercial version please contact github.microscopy@zeiss.com.
+See [COPYING](/COPYING) and [COPYING.LESSER](/COPYING.LESSER).
+
+### Commercial/Proprietary
+Contact github.microscopy@zeiss.com for a commercial/proprietary license in case you do not want to be subject to the [LGPL Version 3](#lgpl-version-3).
