@@ -16,7 +16,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 // 
-// To obtain a commercial version please contact Zeiss Microscopy GmbH.
+// Contact Details: github.microscopy@zeiss.com
 // 
 //******************************************************************************
 #include "stdafx.h"
