@@ -1,17 +1,13 @@
-# DEMO/TEST
 # libCZI
-***Open Source Cross-Platform C++ library to read and write CZI image files***  
 [![CMake](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml)
 [![CodeQL](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml)
 [![GitHub Pages](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml)
 
----------------------------------------------------------------------
+## What
+libCZI is an Open Source Cross-Platform C++ library to read and write [CZI](https://www.zeiss.com/microscopy/en/products/software/zeiss-zen/czi-image-file-format.html).
 
-## General Information
- 
-***libCZI*** is a library intended for providing read and write access to CZI-documents.
-
-It features:
+## Why 
+libCZI is a library intended for providing read and write access to [CZI](https://www.zeiss.com/microscopy/en/products/software/zeiss-zen/czi-image-file-format.html) featuring:
 
 * reading subblocks and get the content as a bitmap
 * reading subblocks which are compressed with JPEG-XR
@@ -20,23 +16,19 @@ It features:
 * access metadata
 * writing subblocks and metadata
 
-In a nutshell, it offers (almost...) the same functionality as the 2D-viewer in ZEN - in terms of composing the image (including display-settings) and managing the data found in a CZI-file. The libCZI libary is part of the Open Application Development Concept of Zeiss Microscopy. More information on OAD can be found here: https://github.com/zeiss-microscopy/OAD
+In a nutshell, it offers (almost...) the same functionality as the 2D-Viewer in [ZEN](https://www.zeiss.com/microscopy/en/products/software/zeiss-zen.html) - in terms of composing the image (including display-settings) and managing the data found in a CZI-file.
 
-The code is written in C++11 and (so far) has been successfully compiled with:
+## Related Software and Tooling
+libCZI is already part of a larger ecosystem.
 
-* Visual Studio 2015 (Microsoft C++ v. 19.00.23506)
-* GCC 5.2.1 (on Ubuntu Linux 4.2.0)
-* Clang 3.4.1 (on FreeBSD 10.2)
+### OAD
+The libCZI libary is part of the [Open Application Development Concept of Zeiss Microscopy](https://github.com/zeiss-microscopy/OAD).
 
-It is intended to be easily portable to other platforms.
+### pylibCZIrw
+[pylibCZIrw](https://pypi.org/project/pylibCZIrw/) is a python module for reading and writing CZI files by utilizing/wrapping libCZI.
 
-## Python Wrappers for libCZI
-
-The following list of python wrappers is available for libCZI. They provide easy access to CZI image data from python.
-
-### pylibCZI
-
-This is a python module for reading and writing Zeiss CZI files by utilizing libCZI and can be found here: [pylibCZI](https://pypi.org/project/pylibCZI/)
+## Contributing
+[CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Licensing
 Carl Zeiss Microscopy GmbH provides libCZI under a dual-license model - [LGPL Version 3](https://www.gnu.org/licenses/lgpl-3.0.en.html) as well as Proprietary/Commercial. 
@@ -59,4 +51,4 @@ GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-To obtain a commercial version please contact Zeiss Microscopy GmbH.
+To obtain a commercial version please contact github.microscopy@zeiss.com.
