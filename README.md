@@ -1,4 +1,5 @@
 # libCZI
+***Adapt after migration***
 [![CMake](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml)
 [![CodeQL](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml)
 [![GitHub Pages](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml)
@@ -17,6 +18,11 @@ libCZI is a library intended for providing read and write access to [CZI](https:
 * writing subblocks and metadata
 
 In a nutshell, it offers (almost...) the same functionality as the 2D-Viewer in [ZEN](https://www.zeiss.com/microscopy/en/products/software/zeiss-zen.html) - in terms of composing the image (including display-settings) and managing the data found in a CZI-file.
+
+## Docs
+***Adapt after migration***
+https://felixs90.github.io/libCZIrw_Demo/
+https://zeiss.github.io/libczi/
 
 ## Related Software and Tooling
 libCZI is already part of a larger ecosystem.
