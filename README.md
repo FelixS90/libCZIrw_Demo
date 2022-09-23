@@ -39,8 +39,12 @@ The following list of python wrappers is available for libCZI. They provide easy
 This is a python module for reading and writing Zeiss CZI files by utilizing libCZI and can be found here: [pylibCZI](https://pypi.org/project/pylibCZI/)
 
 ## Licensing
+Carl Zeiss Microscopy GmbH provides libCZI under a dual-license model - [LGPL Version 3](https://www.gnu.org/licenses/lgpl-3.0.en.html) as well as Proprietary/Commercial. 
+
+### LGPL Version 3
+
 libCZI is a reader and writer for the CZI fileformat written in C++
-Copyright (C) 2022  Zeiss Microscopy GmbH
+Copyright (C) 2017 Carl Zeiss Microscopy GmbH
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
@@ -49,10 +53,10 @@ the Free Software Foundation, either version 3 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Lesser General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 To obtain a commercial version please contact Zeiss Microscopy GmbH.
