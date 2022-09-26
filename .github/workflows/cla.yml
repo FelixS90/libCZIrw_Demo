@@ -11,6 +11,7 @@ on:
       - unlabeled
 
 jobs:
+  # Based on https://stackoverflow.com/questions/71502652/prevent-merging-of-branch-conditionally-based-on-label
   fail-for-no-cla:
     if: ${{!contains(github.event.pull_request.labels.*.name, 'cla')}}
     runs-on: ubuntu-latest
