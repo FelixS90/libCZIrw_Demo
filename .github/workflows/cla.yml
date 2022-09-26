@@ -11,7 +11,7 @@ on:
 
 jobs:
   fail-for-no-cla:
-    if: !contains(github.event.pull_request.labels.*.name, 'cla')
+    if: ${{!contains(github.event.pull_request.labels.*.name, 'cla')}}
     runs-on: ubuntu-latest
     steps:
       - name: Fail for missing cla label
