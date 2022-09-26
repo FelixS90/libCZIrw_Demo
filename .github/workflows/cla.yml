@@ -1,4 +1,4 @@
-name: Check CLA
+name: CLA
 
 on:
   pull_request:
@@ -6,6 +6,7 @@ on:
       - main
     types:
       - opened
+      - reopened
       - labeled
       - unlabeled
 
@@ -18,3 +19,11 @@ jobs:
         run: |
           echo "cla label missing. See CONTRIBUTING.md."
           exit 1
+  succeed-for-cla:
+    if: ${{contains(github.event.pull_request.labels.*.name, 'cla')}}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Succeed for present cla label
+        run: |
+          echo "cla label present. See CONTRIBUTING.md."
+          exit 0
