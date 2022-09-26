@@ -22,9 +22,11 @@ Choose from one of the provided templates and carefully fill out all required in
 If you find yourself wishing for a feature or improvement that doesn't exist in libczi, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that libczi has today have been added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
 # Creating a PR
-We are always happy to receive code contributions from your side. Please always associate a PR with either an [issue](#other-issues) or a [feature](#suggesting-a-feature).  
+We are always happy to receive code contributions from your side.  
 
 For all contributions, please respect the following guidelines:
+- Make sure to either sign the [Individual](./cla_individual.txt) or the [Corporate](./cla_corporate.txt) Contributor License Agreement (CLA) and send it to github.microscopy@zeiss.com.
+- Always associate a PR with either an [issue](#other-issues) or a [feature](#suggesting-a-feature).  
 - Each PR should implement ONE feature or bugfix. If you want to add or fix more than one thing, submit more than one PR.
 - Do not commit changes to files that are irrelevant to your feature or bugfix.
 - Be willing to accept criticism and work on improving your code.
