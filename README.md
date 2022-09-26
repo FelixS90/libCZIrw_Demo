@@ -55,3 +55,6 @@ See [COPYING](/COPYING) and [COPYING.LESSER](/COPYING.LESSER).
 Contact github.microscopy@zeiss.com for a commercial/proprietary license in case you do not want to be subject to the [LGPL Version 3](#lgpl-version-3).  
 
 Note: Purchasing a commercial/proprietary license does not dispense you from fulfilling all obligations that arise from 3rd Party components used/consumed by libCZI.
+
+### Disclaimer
+ZEISS, ZEISS.com are registered trademarks of Carl Zeiss AG.
