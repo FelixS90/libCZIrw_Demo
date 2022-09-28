@@ -2,7 +2,7 @@
 Reporting a security vulnerability?  
 Check out the project's [security policy](https://github.com/FelixS90/libCZIrw_Demo/security/policy).
 
-Be sure to review the [Contributing Guidelines](/CONTRIBUTING.md).
+Be sure to review the [Contributing Guidelines](https://github.com/FelixS90/libCZIrw_Demo/CONTRIBUTING.md).
 
 # Fill out and Adjust this Template
 
@@ -28,7 +28,7 @@ Provide instructions to reproduce.
 
 ## Checklist:
 
-- [ ] I followed the [Contributing Guidelines](/CONTRIBUTING.md).
+- [ ] I followed the [Contributing Guidelines](https://github.com/FelixS90/libCZIrw_Demo/CONTRIBUTING.md).
 - [ ] I did a self-review.
 - [ ] I commented my code, particularly in hard-to-understand areas.
 - [ ] I updated the documentation.
