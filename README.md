@@ -54,10 +54,10 @@ See [COPYING](/COPYING) and [COPYING.LESSER](/COPYING.LESSER).
 ### Commercial/Proprietary
 Contact github.microscopy@zeiss.com for a commercial/proprietary license in case you do not want to be subject to the [LGPL Version 3](#lgpl-version-3).  
 
-Note: Purchasing a commercial/proprietary license does not dispense you from fulfilling all obligations that arise from 3rd Party components used/consumed by libCZI.
+Note: Purchasing a commercial/proprietary license does not dispense you from fulfilling all obligations that arise from [3rd Party Components](#credits-to-third-party-components) used/consumed by libCZI.
 
 ## Credits to Third Party Components
-libCZI makes use of and ships with source code of the following 3rd Party Components:  
+libCZI makes use of and ships with (parts of) source code of the following 3rd Party Components (acknowledgement given in respective source code headers):  
 
 ### jxrlib
 [jxrlib](https://github.com/4creators/jxrlib) is a BSD-licensed JPEG XR Image Codec Reference Implementation Library released by Microsoft.
