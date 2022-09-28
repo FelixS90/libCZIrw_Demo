@@ -1,7 +1,7 @@
 ﻿//******************************************************************************
 // 
 // libCZI is a reader and writer for the CZI fileformat written in C++
-// Copyright (C) 2017-2021  Zeiss Microscopy GmbH
+// Copyright (C) 2017 Carl Zeiss Microscopy GmbH
 // 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
