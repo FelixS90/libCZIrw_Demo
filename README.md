@@ -57,7 +57,7 @@ Contact github.microscopy@zeiss.com for a commercial/proprietary license in case
 Note: Purchasing a commercial/proprietary license does not dispense you from fulfilling all obligations that arise from [3rd Party Components](#credits-to-third-party-components) used/consumed by libCZI.
 
 ## Credits to Third Party Components
-The authors and maintainers of libCZI give a big shout-out to all the [helpers](/THIRD_PARTY_LICENSES.txt) that have brought this library to where it is today.
+The authors and maintainers of libCZI give a big shout-out to all the [helpers](/THIRD_PARTY_LICENSES.txt) that have been part in bringing this library to where it is today.
 
 ## Disclaimer
 ZEISS, ZEISS.com are registered trademarks of Carl Zeiss AG.
