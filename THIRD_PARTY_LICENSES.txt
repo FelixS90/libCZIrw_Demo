@@ -27,7 +27,7 @@ List of third-party software:
 ===============================================================================
 
 -------------------------------------------------------------------------------
-|  jxrlib 1.1 (used under BSD 3-clause "New" or "Revised" License) https://jxrlib.codeplex.com/
+|  jxrlib 1.1 (used under BSD 3-clause "New" or "Revised" License) https://github.com/4creators/jxrlib
 -------------------------------------------------------------------------------
 
 --- --- --- --- --- --- --- Copyright notice(s) --- --- --- --- --- --- --- ---
