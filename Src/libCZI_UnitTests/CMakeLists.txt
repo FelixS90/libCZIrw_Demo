@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2017-2022 Carl Zeiss Microscopy GmbH
+#
+# SPDX-License-Identifier: LGPL-3.0-or-later
+
 # downlad and build googletest -> https://github.com/google/googletest/tree/main/googletest , https://crascit.com/2015/07/25/cmake-gtest/
 
 # Download and unpack googletest at configure time
