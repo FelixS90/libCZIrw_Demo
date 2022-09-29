@@ -57,16 +57,7 @@ Contact github.microscopy@zeiss.com for a commercial/proprietary license in case
 Note: Purchasing a commercial/proprietary license does not dispense you from fulfilling all obligations that arise from [3rd Party Components](#credits-to-third-party-components) used/consumed by libCZI.
 
 ## Credits to Third Party Components
-libCZI makes use of and ships with (parts of) source code of the following 3rd Party Components (acknowledgement given in respective source code headers):  
-
-### jxrlib
-[jxrlib](https://github.com/4creators/jxrlib) is a BSD-licensed JPEG XR Image Codec Reference Implementation Library released by Microsoft.
-
-### MD5
-The [RSA Data Security, Inc. MD5 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD5) is primarily used as a checksum to verify data integrity.
-
-### pugixml
-[pugixml](https://pugixml.org/) is a light-weight, simple and fast XML parsing library for C++ with XPath support licensed under MIT.
+The authors and maintainers of libCZI give a big shout-out to all the [helpers](/THIRD_PARTY_LICENSES.txt) that have brought this library to where it is today.
 
 ## Disclaimer
 ZEISS, ZEISS.com are registered trademarks of Carl Zeiss AG.
