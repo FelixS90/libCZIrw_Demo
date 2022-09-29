@@ -1,3 +1,4 @@
+
 #include "stdafx.h"
 #include "CziWriter.h"
 #include "CziMetadataSegment.h"
