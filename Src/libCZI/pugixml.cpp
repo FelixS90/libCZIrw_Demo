@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2006-2019 Arseny Kapoulkine
+//
+// SPDX-License-Identifier: MIT
 /**
  * pugixml parser - version 1.10
  * --------------------------------------------------------

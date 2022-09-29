@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2017-2022 Carl Zeiss Microscopy GmbH
+//
+// SPDX-License-Identifier: LGPL-3.0-or-later
 
 // stdafx.cpp : source file that includes just the standard includes
 // libCZI.pch will be the pre-compiled header

@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 1991-2 RSA Data Security, Inc.
+//
+// SPDX-License-Identifier: RSA-MD
 #pragma once
 
 /* Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.

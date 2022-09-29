@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: Microsoft Corp.
+//
+// SPDX-License-Identifier: BSD-3-Clause
 //+---------------------------------------------------------------------------
 //
 // Copyright Microsoft Corp.

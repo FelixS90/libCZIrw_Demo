@@ -3,8 +3,6 @@ Upstream-Name: libCZI
 Upstream-Contact: Carl Zeiss Microscopy GmbH <github.microscopy@zeiss.com>
 Source: https://github.com/ZEISS/libczi
 
-# Sample paragraph, commented out:
-#
-# Files: src/*
-# Copyright: $YEAR $NAME <$CONTACT>
-# License: ...
+Files: Src/libCZI/Doc
+Copyright: 2017 - 2022 Carl Zeiss Microscopy GmbH
+License: LGPL-3.0-or-later
