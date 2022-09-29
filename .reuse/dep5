@@ -6,3 +6,7 @@ Source: https://github.com/ZEISS/libczi
 Files: Src/libCZI/Doc
 Copyright: 2017 - 2022 Carl Zeiss Microscopy GmbH
 License: LGPL-3.0-or-later
+
+Files: Src/JxrDecode/Jxr
+Copyright: Microsoft Corp.
+License: BSD-3-Clause

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2017-2022 Carl Zeiss Microscopy GmbH
+#
+# SPDX-License-Identifier: LGPL-3.0-or-later
+
 # This is a workaround for a problem in VisualStudio 2017 15.7. Without it, the CMake-generation in the IDE fails with a
 # spurious exception -> https://github.com/Microsoft/VSLinux/issues/288
 add_definitions(-DFOO)

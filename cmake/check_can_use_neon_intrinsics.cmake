@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2017-2022 Carl Zeiss Microscopy GmbH
+#
+# SPDX-License-Identifier: LGPL-3.0-or-later
+
 include(CheckCXXSourceRuns)
 
 # Compile a small test program in order to determine whether Neon-intrinsics can be used.
