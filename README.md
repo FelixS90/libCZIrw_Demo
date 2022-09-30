@@ -1,5 +1,6 @@
 # libCZI
 ***Adapt after migration***
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![CMake](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/cmake.yml)
 [![CodeQL](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/codeql-analysis.yml)
 [![GitHub Pages](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml/badge.svg?branch=main&event=push)](https://github.com/FelixS90/libCZIrw_Demo/actions/workflows/pages.yml)
